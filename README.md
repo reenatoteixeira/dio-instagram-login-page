@@ -1,3 +1,2 @@
-# Página de login do Instagram.
-
- Recriação da página de login do Instagram feita para o projeto da Digital Innovation One.
+# Instagram's Login Page
+ Recreating the Instagram's Login Page for a Digital Innovation One project.
